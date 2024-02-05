@@ -2,7 +2,7 @@ import os
 import sys
 from PIL import Image
 
-#  This program walkes a folder tree and searches it recursively
+#  This program walks a folder tree and searches it recursively
 #  and down-sizes jpg files to under 3 MB's. Genreally 1-2 MBs.
 #  all other files (mp4, gif, etc) just get a copy made.
 #  after, you should have a 'small' directory in the directory
